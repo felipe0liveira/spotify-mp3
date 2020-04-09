@@ -1,0 +1,29 @@
+{
+  "name": "spotify-mp3",
+  "version": "1.0.0",
+  "description": "From a Spotify Playlist to mp3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe0liveira/spotify-mp3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipe0liveira/spotify-mp3/issues"
+  },
+  "homepage": "https://github.com/felipe0liveira/spotify-mp3#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.3"
+  }
+}
